@@ -50,4 +50,11 @@
     <string name="platform_share_mini_app">分享微信小程序</string>
 
 
+
+    <string name="opening_wechat">微信授权登录...</string>
+    <string name="opening_weibo">微博授权登录...</string>
+
+
+
+
 </resources>
